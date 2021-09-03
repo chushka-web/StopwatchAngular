@@ -1,0 +1,10 @@
+div.timer {
+
+}
+button.btn {
+  width: 40vmin;
+  color: white;
+  background: black;
+  border-radius: 10px;
+  margin-left: 1vmin;
+}
